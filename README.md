@@ -4,14 +4,14 @@
 
 ## Built With
 
-Budget App : <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+Budget Application : <a href="http://abisheksr-budget-app.vercel.app" target="_blank">Budget App</a>
 
 This project was built using these technologies.
 
 - React.js
 - Node.js
 - CSS3
-- bootstrap
+- Bootstrap
 - VsCode
 - Vercel
 
