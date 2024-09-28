@@ -11,12 +11,11 @@ This project was built using these technologies.
 - React.js
 - Node.js
 - CSS3
+- bootstrap
 - VsCode
 - Vercel
 
 ## Features
-
-**📖 Multi-Page Layout**
 
 **🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
